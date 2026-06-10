@@ -2,6 +2,12 @@
 
 A lightweight React web app to visualize multiple Path of Exile hideout files, lasso‑select doodads across them, and export a selectively merged `.hideout` file.
 
+## Other Projects
+
+- [Path of Trading](https://github.com/drandarov-io/path-of-trading) — PoE 2 currency trading helper.
+
+## Showcase
+
 ![Example](./hideouts/example.png)
 
 ## Features
